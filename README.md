@@ -31,14 +31,14 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 ## 🛠️ Skills  
 ### GIS & Remote Sensing  
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-Proficient-blue?style=flat&logo=esri&logoColor=white)  
-![QGIS](https://img.shields.io/badge/QGIS-Proficient-green?style=flat&logo=qgis)  
+![QGIS](https://img.shields.io/badge/QGIS-Proficient-brightgreen?style=flat&logo=qgis)  
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Proficient-royalblue?style=flat&logo=google-earth)  
 
 ### Programming & Analysis  
-![Python](https://img.shields.io/badge/Python-Proficient-green?style=flat&logo=python)  
-![SPSS](https://img.shields.io/badge/SPSS-Experienced-yellow?style=flat&logo=ibm)  
-![R](https://img.shields.io/badge/R-Intermediate-blue?style=flat&logo=r)  
-![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)  
+![SPSS](https://img.shields.io/badge/SPSS-Experienced-ada?style=flat&logo=ibm)  
+![R](https://img.shields.io/badge/R-Intermediate-css?style=flat&logo=r)  
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=flat&logo=postgresql)
 
 ### Environmental Science  
 - Climate Change Studies 🌱  
