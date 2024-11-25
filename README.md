@@ -30,9 +30,9 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 
 ## 🛠️ Skills  
 ### GIS & Remote Sensing  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-Proficient-green?style=flat&logo=esri&logoColor=white)  
+![ArcGIS](https://img.shields.io/badge/ArcGIS-Proficient-blue?style=flat&logo=esri&logoColor=white)  
 ![QGIS](https://img.shields.io/badge/QGIS-Proficient-green?style=flat&logo=qgis)  
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Proficient-Green?style=flat&logo=google-earth)  
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Proficient-royalblue?style=flat&logo=google-earth)  
 
 ### Programming & Analysis  
 ![Python](https://img.shields.io/badge/Python-Proficient-green?style=flat&logo=python)  
