@@ -13,7 +13,7 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shakilesg/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=google-earth)](https://sites.google.com/view/shakil-Sheikh-esg/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=google-earth)](https://sites.google.com/view/shakil-Sheikh-gis/)  
 [![Mail](https://img.shields.io/badge/Email-gisanalyst.shakil@gmail.com-red?style=flat&logo=gmail)](mailto:gisanalyst.shakil@gmail.com)
 
 ---
@@ -85,5 +85,5 @@ If you'd like to collaborate or have any questions about GIS, remote sensing, or
 
 <!--## 📂 Featured Repositories  
 [![Spatial Analysis Toolkit](https://img.shields.io/badge/GIS--Toolbox-View--on--GitHub-orange?style=for-the-badge&logo=github)](https://github.com/ShakilESG/Spatial-Analysis-Toolkit)  
-[![Climate Data Explorer](https://img.shields.io/badge/Climate--Explorer-Explore--Repository-blue?style=for-the-badge&logo=github)](https://github.com/ShakilESG/Climate-Data-Explorer)--!>
-"""
+[![Climate Data Explorer](https://img.shields.io/badge/Climate--Explorer-Explore--Repository-blue?style=for-the-badge&logo=github)](https://github.com/ShakilESG/Climate-Data-Explorer)
+""" --!>
