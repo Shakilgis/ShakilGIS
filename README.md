@@ -36,8 +36,8 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 
 ### Programming & Analysis  
 ![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)  
-![SPSS](https://img.shields.io/badge/SPSS-Experienced-ada?style=flat&logo=ibm)  
-![R](https://img.shields.io/badge/R-Intermediate-css?style=flat&logo=r)  
+![SPSS](https://img.shields.io/badge/SPSS-Experienced-orange?style=flat&logo=ibm)  
+![R](https://img.shields.io/badge/R-Intermediate-royalblue?style=flat&logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=flat&logo=postgresql)
 
 ### Environmental Science  
