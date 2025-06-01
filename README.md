@@ -72,9 +72,9 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 
 ## 📊 Ongoing Projects  
 
-- 🌍 **A Geospatial Study of Water Body Degradation Driven by Land Use Transformations**  
-     - Investigating the impact of land use changes on water bodies using spatial modeling and remote sensing techniques.
+- 🌍 **Geospatial Study of the Status of Haor Water Body Driven by Land Use Transformations**  
      - Analyzing spatiotemporal changes in water bodies using geospatial techniques.
+     - Investigating the impact of land use changes on water bodies using spatial modeling and remote sensing techniques.
    
 - <img src="https://media.licdn.com/dms/image/v2/C4E0BAQEH8O8V5r1NXw/company-logo_200_200/company-logo_200_200/0/1674152042242?e=2147483647&v=beta&t=ZyQ83dhBSq_plX1dS7mRh_ljrGShs_cpRhECPI5FaUY" width="20" height="20">**Towards a Systems-based Digital Platform for Agricultural Land Use Planning, Management Decision, and Inventory Reporting (HOLOS-IE).**
   - Lead the integration of environmental datasets (soils, climate, land use) using GIS and remote sensing techniques (ArcGIS, QGIS, and Google Earth Engine).
