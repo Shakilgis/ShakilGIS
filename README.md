@@ -21,7 +21,12 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 [![Mail](https://img.shields.io/badge/Email-gisanalyst.shakil@gmail.com-red?style=flat&logo=gmail)](mailto:gisanalyst.shakil@gmail.com)
 
 ---
-## 💼 Experience  
+## 💼 Experience
+### **GIS Analyst**  
+- **GMGI Solutions limited**  
+  -  The digitization of physical features and georeferencing of maps, developing and maintaining GIS databases using ArcGIS Pro software.
+  -  Monitoring field data collection using QGIS and QField Cloud, conducting daily reporting using Excel, and liaising with relevant personnel, etc.
+    
 ### **GIS and Data Analyst**  
 - **Prudence College Dublin**  
   - Specialized in spatial data analysis, remote sensing, and geospatial modeling.
@@ -51,9 +56,10 @@ I am **Shakil Sheikh**, a *GIS & Remote Sensing Analyst specializing in spatial 
 ---
 
 ## 🌟 Highlights  
-- 🎓 **MSc in Environmental Sciences**, Bangladesh Agricultural University  
-- 🎓 **BSc in Geography & Environment**, Islamic University  
-
+- 🎓 **MSc in Environmental Sciences**, Bangladesh Agricultural University.
+- 🎓 **BSc in Geography & Environment**, Islamic University.
+- 🎓 **HSC (Science)**, Agricultural University College, Mymensingh - Dhaka Board..
+- 🎓 **SSC (Science)**, Jamalpur Zilla School, Jamalpur - Dhaka Board.
 ---
 
 ## 🌱 Interests  
